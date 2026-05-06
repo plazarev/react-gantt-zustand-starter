@@ -1,8 +1,25 @@
 {
-  "name": "dhx-react-gantt-zustand-demo",
+  "name": "dhx-react-gantt-zustand-starter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Starter showing how to integrate DHTMLX React Gantt with Zustand for local in-memory state management, including snapshot-based undo/redo.",
+  "keywords": [
+    "dhtmlx",
+    "gantt",
+    "react",
+    "zustand",
+    "state-management",
+    "starter",
+    "demo"
+  ],
+  "license": "MIT",
+  "author": "DHTMLX",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhtmlx/react-gantt-zustand-starter.git"
+  },
+  "homepage": "https://docs.dhtmlx.com/gantt/integrations/react/state/zustand/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

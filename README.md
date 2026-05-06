@@ -64,6 +64,14 @@ or
 yarn dev
 ```
 
+## Related demos
+
+This starter is the first step in a three-part React Gantt state-management series:
+
+1. **react-gantt-zustand-starter** — local in-memory state with Zustand (this repo)
+2. [react-gantt-tanstack-query-starter](https://github.com/dhtmlx/react-gantt-tanstack-query-starter) — server-backed state with a JSON file backend
+3. [react-gantt-tanstack-supabase-starter](https://github.com/dhtmlx/react-gantt-tanstack-supabase-starter) — real-time multi-user sync over PostgreSQL
+
 ## License
 
 Source code in this repo is released under the **MIT License**.
